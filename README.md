@@ -20,3 +20,8 @@
 
     Date : 2020 second semester
     Professor : 장진수
+
+> - Computer Graphics :
+
+    Date : 2021 second semester
+    Professor : 고영준
