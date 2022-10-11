@@ -25,6 +25,11 @@
 
     Date : 2021 first semester
     Professor : 이영석
+    
+> - Real coding :
+
+    Date : 2021 first semester
+    Professor : 
 
 > - Computer Graphics :
 
