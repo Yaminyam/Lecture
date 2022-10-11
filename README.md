@@ -16,6 +16,11 @@
     Date : 2019 first semester
     Professor : 김기일
     
+> - Algorithm :
+
+    Date :2020 second semester
+    Professor : 
+    
 > - Object Oriented Design :
 
     Date : 2020 second semester
