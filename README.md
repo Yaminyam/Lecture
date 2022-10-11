@@ -20,6 +20,11 @@
 
     Date : 2020 second semester
     Professor : 장진수
+    
+> - Data Communication :
+
+    Date : 2021 first semester
+    Professor : 이영석
 
 > - Computer Graphics :
 
