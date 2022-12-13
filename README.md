@@ -19,7 +19,7 @@
 > - Algorithm :
 
     Date :2020 second semester
-    Professor : 
+    Professor : 박정희
     
 > - Object Oriented Design :
 
